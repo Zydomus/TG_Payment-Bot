@@ -3,7 +3,6 @@ This is a telegram bot that intigrates the commerce coinbase API  to make paymen
 
 ## Installation
 1. Clone the repository:
-   ```shell
     
 https://github.com/Zydomus/TgpaymentBot.git 
 
